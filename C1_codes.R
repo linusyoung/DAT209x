@@ -1,8 +1,8 @@
-#Excercise 1.1
+#Exercise 1.1
 
 mean(exp(rnorm(1000)))
 
-#Excercise 1.2
+#Exercise 1.2
 A <- 1
 B <- 3
 C <- 1
@@ -12,7 +12,7 @@ solutions <- c((-B + sqrt(B^2 - 4*A*C))/(2*A),(-B - sqrt(B^2 - 4*A*C))/(2*A))
 #error
 c(-0.4, -2.6)/solutions - 1
 
-#Excercise 1.3
+#Exercise 1.3
 set.seed(1234)
 x <- rnorm(100, mean = .5, sd = .3)
 mean(x)
@@ -21,7 +21,7 @@ hist(x, axis = FALSE)
 axis(4)
 
 #Quiz
-#1
+#1 
 set.seed(1)
 x <- rnorm(100)
 head(x)

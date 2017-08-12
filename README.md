@@ -5,3 +5,6 @@ Programming with R for Data Science
 1. C1_codes
 2. C2_codes
 3. C3&C4_codes
+4. C7
+5. C8
+6. C9

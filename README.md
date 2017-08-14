@@ -9,3 +9,5 @@ Programming with R for Data Science
 5. C8
 6. C9
 7. C10 and Lab10.csv
+8. C11
+9. C12
